@@ -1,5 +1,4 @@
 package;
-<<<<<<< HEAD
 import flixel.input.gamepad.lists.FlxBaseGamepadList;
 import flixel.FlxG;
 import flixel.FlxState;
